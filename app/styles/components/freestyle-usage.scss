@@ -32,7 +32,7 @@ $FreestyleUsage-maxWidth: $FreestyleGuide-maxWidth !default;
       }
     }
 
-    &--tomorrow-night {
+/*     &--tomorrow-night {
       @import '../ember-freestyle/highlight.js/tomorrow-night';
     }
 
@@ -58,7 +58,7 @@ $FreestyleUsage-maxWidth: $FreestyleGuide-maxWidth !default;
 
     &--monokai-sublime {
       @import '../ember-freestyle/highlight.js/monokai-sublime';
-    }
+    } */
   }
 
   &--inline {
